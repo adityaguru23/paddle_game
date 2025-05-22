@@ -37,7 +37,7 @@ pip install pygame
 
 3. **Run the game**:
 ```bash
-python paddle_game.py
+python main.py
 ```
 
 ## 🎮 Controls
